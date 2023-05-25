@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aston_intensiv_6</string>
+    <string name="saveData">Сохранить изменения</string>
+    <string name="empty" />
+    <string name="logtag">LOGTAG</string>
+    <string name="miss_load">Ошибка загрузки -</string>
+</resources>
